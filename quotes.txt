@@ -1,3 +1,5 @@
 Be curious.
 Keep commits small.
 Write helpful messages.
+
+Do the best you can until you know better. Then when you know better, do better
