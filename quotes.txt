@@ -1,3 +1,4 @@
 Be curious.
 Keep commits small.
 Write helpful messages.
+A heuristic we follow is that whenever we feel the need to comment something, we write a method instead. - Martin Fowler
