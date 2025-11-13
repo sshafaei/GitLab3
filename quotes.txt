@@ -1,0 +1,3 @@
+Be curious.
+Keep commits small.
+Write helpful messages.
